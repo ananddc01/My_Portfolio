@@ -4,7 +4,7 @@ html {
 
 
 .layout_padding {
-  padding: 200px 0 0 300px;
+  padding: 200px 0;
 }
 
 .layout_padding2 {
@@ -70,7 +70,6 @@ html {
   padding: 25px;
   background-color: #0a0000;
   margin: 0 45px;
-  width: 800px;
 }
 
 .contact_section .contact_form h4 {
