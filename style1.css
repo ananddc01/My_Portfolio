@@ -2,6 +2,12 @@ html {
   overflow-x: hidden;
 }
 
+body {
+  font-family: "Poppins", sans-serif;
+  color: #f8eded;
+  background-color: #000000;
+}
+
 
 .layout_padding {
   padding: 200px 0;
@@ -106,7 +112,7 @@ html {
 }
 
 .contact_section .img-box img {
-  width: 70%;
+  width: 40%;
 }
 
 
