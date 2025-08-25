@@ -60,7 +60,7 @@ body {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   z-index: 1;
-  background-color: #39f1f1;
+  background-color:#bb86fc;
   background-repeat: no-repeat;
 }
 
@@ -104,7 +104,7 @@ body {
   padding: 8px 30px;
   border: none;
   outline: none;
-  background-color:  #39f1f1;
+  background-color:  #bb86fc;
   color: #000000;
   font-size: 15px;
   text-transform: uppercase;
