@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 
 
 </div>
