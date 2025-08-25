@@ -12,21 +12,21 @@ A community maintained open source project aimed at making personal portfolio fo
 
 ### Home Page:
 
-<p align="center"><img src="./readme_assets/Home_Page.gif"></p>
+<p align="center"><img src="./readme_assets/h1.jpg"></p>
 
-### Experience Page:
+### Events Page:
 
-<p align="center"><img src="./readme_assets/Experience_Page.gif"></p>
+<p align="center"><img src="./readme_assets/h4.jpg"></p>
 
 ### Project Page:
 
 <p align="center"><img src="./readme_assets/Project_Page.gif"></p>
 
-### Research Page:
+### Skills Page:
 
-<p align="center"><img src="./readme_assets/Research_Page.gif"></p>
+<p align="center"><img src="./readme_assets/h3.jpg"></p>
 
 ### Education Page:
 
-<p align="center"><img src="./readme_assets/Education_Page.gif"></p>
+<p align="center"><img src="./readme_assets/h2.jpg"></p>
 
