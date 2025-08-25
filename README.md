@@ -19,7 +19,7 @@ A community maintained open source project aimed at making personal portfolio fo
 
 ### Project Page:
 
-<p align="center"><img src="./readme_assets/Project_Page.gif"></p>
+<p align="center"><img src="./readme_assets/h5.jpg"></p>
 
 ### Skills Page:
 
