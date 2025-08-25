@@ -8,8 +8,8 @@ const exp = [
     title: "professor",
     cardImage: "assets/images/experience-page/CSC.jpg",
     place: "CSC",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    time: "(May, 2023 - 2025)",
+    desp: "<li>Mentored 400+ students in software development.</li> <li>Organized hackathons, coding bootcamps, and seminars on emerging technologies.</li> <li>Taught core programming languages,</li><li  style='list-style:none;'>( C, C++, Java, Python, Html, css, Bootstrap, JavaScript, React js, Mysql, ManagoDb,Excel ). </li>",
   },
   /*{
     title: "Student Developer",
