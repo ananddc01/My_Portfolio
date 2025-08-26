@@ -85,6 +85,17 @@
 
       gtag('config', 'G-M11CMZ12Q');
     </script>
+    <script>
+function show()
+{
+	f1.name.value="";
+  f1.email.value="";
+  f1.phone.value="";
+  f1.message.value="";
+  fi.name.focus();
+}
+
+</script>
 </head>
 
 <body class="no-scroll-preload" id="back">
@@ -116,7 +127,7 @@
             <h4>
               Get In touch
             </h4>
-            <form action="https://api.web3forms.com/submit" method="POST" id="form" >
+            <form action="https://api.web3forms.com/submit" method="POST" id="form" name="f1" onsubmit="show()">
               <input type="hidden" name="access_key" value="313027c0-e1d3-4c73-8414-e04432483bc8" />
               <input type="hidden" name="subject" value="Portfolio" />
               <input type="checkbox" name="botcheck" id="" style="display: none;" />
