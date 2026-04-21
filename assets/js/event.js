@@ -14,15 +14,15 @@ $(document).ready(function () {
     { title: "Sudoku",
        image: "assets/images/event/e2.jpg",
      },
-   /* {
-      title: "Presentation",
-      image: "assets/images/event/image4.jpg",
+   {
+      title: "Web Designing",
+      image: "assets/images/event/e4.jpeg",
     },
     {
-      title: "Note on XYZ",
-      image: "assets/images/event/image5.jpg",
+      title: "Code Debugging",
+      image: "assets/images/event/e5.jpeg",
     },
-    {
+   /*  {
       title: "Keytopics",
       image: "assets/images/event/image6.jpg",
     },
