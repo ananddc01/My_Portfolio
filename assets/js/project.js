@@ -28,15 +28,15 @@ const projects = [
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "https://github.com/ananddc01/Daily_Expense_tracker/tree/main/Expense_tracker",
-  },/*
+  },
   {
-    title: "Exercise Tracker",
-    cardImage: "assets/images/project-page/exercise.jpg",
+    title: "Blood Bank & Donor Management System",
+    cardImage: "assets/images/project-page/b2.png",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
-    Githublink: "",
-  },
+    Githublink: "https://github.com/ananddc01/BBDMS",
+  },/*
   {
     title: "Recipe Ingredient Parser",
     cardImage: "assets/images/project-page/recipe.jpg",
